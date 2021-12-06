@@ -1,0 +1,49 @@
+Setstate
+Callback function
+Promises
+Latest version of react native
+Pure components
+Difference between class components and functional components
+
+
+
+
+
+Components,. States and props, var and let, set state , es6 features, life cycle methods, render, pure function, function component, useeffect
+
+
+
+what are hooks, lifecycle methods
+
+
+
+
+
+Latest version of react native
+Difference between js and jsx
+Difference between ts and js
+Virtual DOM
+React native lifecycle
+Difference between class component and class component
+Pure component
+Stateless and stateful components
+Props and states
+Setstate and it's uses
+Difference between element and component
+Touchable opacity and related concepts
+Complete navigation
+Let, var and const
+Undefined and undeclared
+Deep copy and shallow copy
+Spread and rest operator
+Destructuring
+Array methods
+what is the version of android and IOS react native supports
+Native modules
+Native Bridge
+Higher order components
+How to know whether the app is in foreground or background
+Complete details on Javascript and types riptide
+Redux
+Hooks
+Localization
